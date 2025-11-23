@@ -1,1 +1,71 @@
 *.yaml
+
+#------------------ LaTeX auxiliary files ------------------
+*.aux
+*.log
+*.out
+*.toc
+*.lof
+*.lot
+*.fls
+*.fdb_latexmk
+*.synctex.gz
+*.synctex(busy)
+*.pdfsync
+# Bibliography
+*.bbl
+*.blg
+*.run.xml
+# Glossary
+*.glo
+*.gls
+*.glg
+# Index
+*.idx
+*.ilg
+*.ind
+*.ist
+# Listings
+*.lol
+# Misc temporary files
+*.tmp
+*~
+*.swp
+*.swo
+# Backup files
+*.bak
+*.backup
+# Package specific files
+*-concordance.tex
+*.nav
+*.snm
+*.vrb
+# Output files (comment if you want to keep PDFs)
+# *.pdf
+*.dvi
+*.ps
+# Logs and databases
+*.lg
+*.brf
+*.bcf
+*.blg
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+# Editor files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+# Build directories
+build/
+dist/
+out/
+# LaTeX generated folders
+_output/
+_temp/
