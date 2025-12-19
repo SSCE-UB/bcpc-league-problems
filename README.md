@@ -40,3 +40,4 @@ This repository is intended for educational purposes.
 ## 🧑‍💻 Contests:
 1. [2025-11-20_week01](https://github.com/SSCE-UB/bcpc-league-problems/tree/main/2025-11-20-week01)
 2. [2025-12-04_week02](https://github.com/SSCE-UB/bcpc-league-problems/tree/main/2025-12-4_week02)
+3. [2025-12-18_week03](https://github.com/SSCE-UB/bcpc-league-problems/tree/main/2025-12-18_week03)
