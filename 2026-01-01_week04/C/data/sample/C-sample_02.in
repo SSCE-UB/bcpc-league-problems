@@ -1,0 +1,17 @@
+3 15
+m1 m2 f
+insert m3 0
+relocate m2 -2
+relocate m1 -2
+relocate m3 -2
+relocate m2 -2
+relocate m1 -2
+relocate m3 -2
+depart m2
+relocate m1 1
+relocate f 0
+relocate m3 0
+relocate f -1
+relocate m3 -1
+relocate m1 -2
+relocate f -1
